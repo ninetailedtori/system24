@@ -3,7 +3,6 @@ dist
 
 .vscode
 .idea
-.DS_Store
 
 .env
 prepros.config
@@ -11,3 +10,15 @@ sass.txt
 CHECKUP.txt
 .parcel-cache
 *.pyc
+
+archive/*
+assets/*
+benchmark/*
+build/*
+
+**/*.md
+**/*.yml
+**/*.yaml
+**/*.json
+**/*.js
+LICENSE

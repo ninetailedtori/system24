@@ -1,4 +1,3 @@
-
 <img src="https://github.com/refact0r/system24/raw/main/assets/preview.png">
 
 # system24
